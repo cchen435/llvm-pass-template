@@ -1,4 +1,4 @@
-# llvm-pass-skeleton
+# llvm-pass-template
 
 A completely useless LLVM pass.
 
